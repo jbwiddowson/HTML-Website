@@ -1,0 +1,23 @@
+.div {
+	background-image: -webkit-linear-gradient(270deg,rgba(3,94,203,1.00) 0%,rgba(47,146,126,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(3,94,203,1.00) 0%,rgba(47,146,126,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(3,94,203,1.00) 0%,rgba(47,146,126,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(3,94,203,1.00) 0%,rgba(47,146,126,1.00) 100%);
+}
+.face {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.next{
+	text-align: right;
+	display: block;
+	margin-right: auto;
+	margin-bottom: auto;
+	font-size: large;
+	opacity: 1;
+}
+.d {
+}
+.div {
+}
